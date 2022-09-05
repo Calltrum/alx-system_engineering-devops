@@ -21,4 +21,5 @@
 20. Script that removes all letters c and C from input.
 21. Script that reverse its input.
 22. Script that displays all users and their home directories, sorted by users.
-
+100. Command that finds all empty files and directories in the current directory and all sub-directories.
+101. 
