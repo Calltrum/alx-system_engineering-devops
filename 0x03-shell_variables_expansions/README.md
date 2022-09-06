@@ -1,3 +1,4 @@
 0. Script that creates an alias.
-1. Script that adds /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
-2. 
+1. Script that prints hello user, where user is the current Linux user.
+2. Script that adds /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
+3.  
