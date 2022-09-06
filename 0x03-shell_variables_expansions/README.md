@@ -1,1 +1,3 @@
 0. Script that creates an alias.
+1. Script that adds /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
+2. 
