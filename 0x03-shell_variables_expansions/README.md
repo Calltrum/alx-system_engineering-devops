@@ -13,4 +13,5 @@
 12. Script that prints all possible combinations of two letters, except oo.
 13. Script that prints a number with two decimal places, followed by a new line.
 100. Script that converts a number from base 10 to base 16.
-101. S      
+101. Script that encodes and decodes text using the rot13 encryption. Assume ASCII.
+102. S      
