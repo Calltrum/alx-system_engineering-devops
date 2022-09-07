@@ -14,4 +14,5 @@
 13. Script that prints a number with two decimal places, followed by a new line.
 100. Script that converts a number from base 10 to base 16.
 101. Script that encodes and decodes text using the rot13 encryption. Assume ASCII.
-102. S      
+102. Script that prints every other line from the input, starting with the first line.
+103. S      
